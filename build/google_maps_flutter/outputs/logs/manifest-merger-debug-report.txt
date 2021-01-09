@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml:2:3-42
+		INJECTED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml
+		INJECTED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml
+INJECTED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml
+		ADDED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml
+		INJECTED from /media/laxus/DiskD/PCapp/flutter_linux_1.20.3-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android/src/main/AndroidManifest.xml
